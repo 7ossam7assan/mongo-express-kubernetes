@@ -1,11 +1,11 @@
 # mongo-express-kubernetes
-mongo express playground with kubernetes 
+mongo express playground with kubernetes  :sunglasses:
 
 added all resources under playground namespace 
 
 ### installation 
 
-1- install minikube with docker
+1- install minikube with docker :rocket:
 
 2- run the following commands
 
@@ -21,8 +21,8 @@ added all resources under playground namespace
 
 3- it will open on http://cluster-ip:nodePort
 
-### ToDo
+### ToDo :nerd_face:
 
-1- find out the best way to push secrets to git 
+1- find out the best way to push secrets to git
 
 2- continue learning :muscle:
