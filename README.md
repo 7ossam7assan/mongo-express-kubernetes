@@ -8,15 +8,15 @@ added all resources under playground namespace
 
 2- run the following commands
 
-- minikube start
-- kubectl apply -f playground-ns
+- ``` minikube start ```
+- ``` kubectl apply -f playground-ns ```
 - download kubectx and kubens 
-- kubens playground-ns
-- kubectl apply -f mongodb-configmap.yaml
-- kubectl apply -f mongodb-secret.yaml
-- kubectl apply -f mongodb_deployment.yaml
-- kubectl apply -f mongo-express.yaml
-- kubectl expose service/mongo-express-service
+- ``` kubens playground-ns ```
+- ``` kubectl apply -f mongodb-configmap.yaml```
+- ``` kubectl apply -f mongodb-secret.yaml ```
+- ``` kubectl apply -f mongodb_deployment.yaml ```
+- ``` kubectl apply -f mongo-express.yaml ```
+- ``` kubectl expose service/mongo-express-service ```
 
 3- it will open on http://cluster-ip:nodePort
 
