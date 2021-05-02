@@ -23,4 +23,5 @@ added all resources under playground namespace
 ### ToDo
 
 1- find out the best way to push secrets to git 
+
 2- continue learning
