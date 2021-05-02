@@ -19,3 +19,8 @@ added all resources under playground namespace
 - kubectl expose service/mongo-express-service
 
 3- it will open on http://cluster-ip:nodePort
+
+### ToDo
+
+1- find out the best way to push secrets to git 
+2- continue learning
