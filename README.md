@@ -4,6 +4,7 @@ mongo express playground with kubernetes
 added all resources under playground namespace 
 
 ###installation 
+
 1- install minikube with docker
 
 2- run the following commands
