@@ -25,4 +25,4 @@ added all resources under playground namespace
 
 1- find out the best way to push secrets to git 
 
-2- continue learning
+2- continue learning :muscle:
